@@ -1,5 +1,4 @@
 <?php
-
 include_once 'Lib/Student.php';
 
 echo '<pre>';
